@@ -94,3 +94,26 @@
     - `index.js` – Точка входа микрофронтенда
   - `package.json` – Зависимости и скрипты микрофронтенда
   - `webpack.config.js`
+
+## Установка и запуск проекта
+1. Клонируйте репозиторий;
+2. Перейдите в директорию каждого микрофронтенда и установите зависимости:  
+```bash
+git clone https://github.com/Aisttt/architecture-sprint-1/tree/sprint_1
+
+
+cd auth-microfrontend
+npm install
+npm start
+
+cd ../profile-microfrontend
+npm install
+npm start
+
+cd ../places-microfrontend
+npm install
+npm start
+
+cd ../main-microfrontend
+npm install
+npm start
