@@ -117,3 +117,7 @@ npm start
 cd ../main-microfrontend
 npm install
 npm start
+```
+
+# Задание 2 - Декомпозиция веб-приложения на Django на микросервисы.
+[Ссылка на draw.io](https://drive.google.com/file/d/1JHAswsZacEBw_SMpOpFDwyFvV3Tuq1IG/view?usp=sharing)
